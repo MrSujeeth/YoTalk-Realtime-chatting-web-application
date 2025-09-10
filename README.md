@@ -1,1 +1,1 @@
-MERN Based Web Chat Application
+MERN Based Web RealTime Chat Application

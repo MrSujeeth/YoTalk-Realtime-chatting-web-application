@@ -60,7 +60,7 @@ Customer support chat systems
 
 Social networking applications
 
-📌 Conclusion
+**📌 Conclusion**
 
 This MERN-based Real-Time Chat Application demonstrates the integration of frontend and backend technologies with real-time communication.
 It highlights practical implementation of full-stack development concepts and scalable web architecture.

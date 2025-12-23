@@ -5,7 +5,7 @@ MERN Based Web RealTime Chat Application
 This project is a Real-Time Chat Application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 It enables users to communicate instantly with each other through a responsive and secure web interface.
 
-🚀 Project Overview
+**🚀 Project Overview**
 
 Real-time communication is a core feature of modern web applications.
 This project implements a scalable chat system that allows users to send and receive messages instantly using WebSocket-based communication.

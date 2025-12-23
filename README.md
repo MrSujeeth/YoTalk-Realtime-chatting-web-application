@@ -10,7 +10,7 @@ It enables users to communicate instantly with each other through a responsive a
 Real-time communication is a core feature of modern web applications.
 This project implements a scalable chat system that allows users to send and receive messages instantly using WebSocket-based communication.
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 Frontend: React.js
 
@@ -24,7 +24,7 @@ Authentication: JWT (JSON Web Token)
 
 Styling: CSS / Bootstrap
 
-✨ Key Features
+**✨ Key Features**
 
 User registration and login
 
@@ -38,7 +38,7 @@ Secure authentication
 
 Responsive user interface
 
-📂 Application Workflow
+**📂 Application Workflow**
 
 User registers or logs in
 
@@ -50,7 +50,7 @@ Messages are sent and received in real time
 
 Chat data is stored securely in MongoDB
 
-🎯 Use Cases
+**🎯 Use Cases**
 
 Real-time messaging platforms
 

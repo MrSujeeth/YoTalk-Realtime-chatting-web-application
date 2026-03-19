@@ -1,4 +1,4 @@
-MERN Based Web RealTime Chat Application
+**MERN Based Web RealTime Chat Application**
 
 **💬 MERN Based Real-Time Chat Application**
 
